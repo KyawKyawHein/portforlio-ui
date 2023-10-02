@@ -1,0 +1,115 @@
+.fpage{
+    background-color: navajowhite;
+}
+.fp-content{
+    margin-top: 150px;
+}
+.fp-btn{
+    width: 140px;
+}
+.info-img{
+    margin-left: 526px;
+    margin-top: 40px;
+}
+.ttitle{
+    width: 140px;
+}
+tr{
+    height: 35px;
+}
+.card-controller{
+    width: 150px;
+}
+.btn-down{
+    position: absolute;
+    bottom: 50px;
+    right: 600px;
+}
+.skill-bg{
+    margin-left: 510px;
+    margin-top: 40px;
+}
+.skill-logo{
+    font-size: 25px;
+}
+.bar{
+    width: 500px;
+    background-color: #000000;
+    height: 10px;
+    border-radius: 20px;
+}
+.skill{
+    background-color: #0d6efd;
+    height: 100%;
+    border-radius: 20px;
+    position: relative;
+}
+.skill-circle{
+    background-color: #0d6efd;
+    border-radius: 50% 0 ;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -15px;
+    right: -37px;
+}
+.skill-html{
+    width: 415px;
+}
+.skill-js{
+    width: 300px;
+}
+.skill-jquery{
+    width: 325px;
+}
+.skill-boot{
+    width: 350px;
+}
+.skill-design{
+    width: 435px;
+}
+.skill-com{
+    width: 400px;
+}
+.skill-team{
+    width: 425px;
+}
+.skill-create{
+    width: 450px;
+}
+.skill-solve{
+    width: 415px;
+}
+.skill-learn{
+    width: 450px;
+}
+.title{
+    margin-left: 450px;
+    margin-top: 40px;
+}
+.service-card{
+    width: 450px;
+    border-radius: 20px;
+}
+.project-link{
+    width: 350px;
+}
+.collaborate-title{
+    text-align: center;
+}
+
+
+
+
+.ani-d1{
+    animation-delay: 1s;
+}
+.ani-d15{
+    animation-delay: 1.2s;
+}
+.ani-d2{
+    animation-delay: 2s;
+}
